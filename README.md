@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width=150 height= 150 src="/src/logo.png"></img>
+  <img align="center" width=200 height= 200 src="/src/logo.png"></img>
 </p>
 
 <h1 align="center">DBox</h1>
@@ -24,7 +24,7 @@
 **Tools:** 
 ```IPFS```
 
-**Network**
+**Network:**
 ```Matic Mumbai Test Network```
 
 **Platforms:** 
